@@ -1,6 +1,8 @@
 # Nashville_Housing
 Data Cleaning using Nashville Housing dataset
-I am going to clean up the Nashville Housing dataset for this project. We'll be doing the following things:
+I am going to clean up the Nashville Housing dataset for this project. 
+
+I'll be doing the following things:
 
 - Standardize date format.
 - Fill in property addresses that are missing
